@@ -43,10 +43,6 @@ public class Prescription {
     // }
 
     public void writePrescription(String medicine, String dosage) {
-        // To which patient?
-
-        // By which doctor?
-
         // Information content. (medicines, dosages, timePeriod, etc)
         medicines.add(medicine);
         dosages.add(dosage);
