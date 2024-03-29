@@ -10,13 +10,13 @@ import java.util.Scanner;
 public class Prescription {
 
     // FIELDS:
-    //---------
+    //----------
     // Doctor doctor
     // Patient patient
-    //---------
+    //----------
     // LIST as medicines
     // LIST as dosages
-    //---------
+    //----------
 
     private Doctor doctor;
     private Patient patient;
